@@ -30,7 +30,7 @@ in the document layout we want an element to be placed:
 Here's an example of what absolute positioning looks like in CSS:
 
 ```css
-.parent-element {
+.parent-element { 
   position: relative;
 }
 
